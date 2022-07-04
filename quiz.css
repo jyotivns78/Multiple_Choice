@@ -1,0 +1,13 @@
+body {
+    background-color: darkslategrey;
+    font-size: 20px;
+    color: white;
+    margin-left: 2rem;
+}
+
+#button {
+    background-color: teal;
+    color: white;
+    padding: 5px;
+    font-size: 20px;
+}
